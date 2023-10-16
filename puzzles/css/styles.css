@@ -1,12 +1,8 @@
 body {
-  background-color: deeppink;
+  background-color: rgb(255, 130, 197);
 }
 
 .puzzle-item {
   font-size: 22px;
   color: darkblue;
-}
-
-.p {
-  color: green;
 }
