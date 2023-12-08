@@ -8,6 +8,15 @@ ul {
   padding: 0;
 }
 
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 1400px;
+  
+}
+
 .header {
   padding: 20px;
   /* background-color:blanchedalmond; */
@@ -25,3 +34,6 @@ ul {
 .menu-link {
   text-decoration: none;
 }
+
+
+
